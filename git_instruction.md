@@ -28,3 +28,4 @@ Initialized empty Git repository in C:/Users/dante/Desktop/git/.git/
 ```
 Значит ваш репозиторий успешно инициализирован.
 
+## 5. Запись изменений в репозиторий
